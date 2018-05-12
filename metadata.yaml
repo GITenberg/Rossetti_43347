@@ -1,0 +1,37 @@
+_repo: Rossetti_43347
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43347-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Pissarro, Lucien
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '42149'
+    url: http://www.gutenberg.org/2009/agents/42149
+  editor:
+    agent_name: Hare, T. Leman (Thomas Leman)
+    aliases:
+    - Hare, T. L. (Thomas Leman)
+    - Hare, Thomas Leman
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '41203'
+    url: http://www.gutenberg.org/2009/agents/41203
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43347'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcsh 'Rossetti, Dante Gabriel, 1828-1882'
+- !lcc 'ND'
+title: Rossetti
+url: http://www.gutenberg.org/ebooks/43347
